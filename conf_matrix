@@ -140,4 +140,3 @@ for i, j in np.ndindex(cm.shape):
 plt.tight_layout()
 plt.savefig('confusion_matrix.png')
 plt.show()
-
